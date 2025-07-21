@@ -52,13 +52,21 @@
 
 <p align="left">
   <a href="http://www.github.com/camiloprr">
-    <img src="https://github-readme-stats.vercel.app/api?username=camiloprr&show_icons=true&hide=prs,issues,stars,contribs&hide_title=true&hide_border=true&bg_color=1c1917&text_color=ffffff&icon_color=22c55e" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=camiloprr&show_icons=true&hide=prs,stars,contribs&count_private=false&hide_border=true&bg_color=1c1917&text_color=ffffff&icon_color=22c55e&title_color=3382ed" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="left">
   <a href="http://www.github.com/camiloprr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=camiloprr&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camiloprr&theme=github_dark" alt="Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camiloprr&theme=github_dark&card_width=300" alt="Repos by Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camiloprr&theme=github_dark&utcOffset=-5" alt="Productive Time" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://www.github.com/camiloprr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camiloprr&theme=github_dark" alt="Profile Summary" />
   </a>
 </p>
 
