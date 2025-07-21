@@ -59,7 +59,6 @@
 <p align="left">
   <a href="http://www.github.com/camiloprr">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camiloprr&theme=github_dark" alt="Top Languages" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camiloprr&theme=github_dark&card_width=300" alt="Repos by Language" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camiloprr&theme=github_dark&utcOffset=-5" alt="Productive Time" />
   </a>
 </p>
@@ -69,5 +68,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camiloprr&theme=github_dark" alt="Profile Summary" />
   </a>
 </p>
-
----
