@@ -30,7 +30,7 @@ I'm a **Software Engineering student** at **Florida Gulf Coast University**, dri
 
 ### 🧾 Resume
 <p align="center">
-  <a href="https://github.com/camiloprr/camiloprr/raw/main/Camilo%27s%20ultimate%20resume%203.0.pdf" target="_blank">
+  <a href="https://github.com/camiloprr/camiloprr/blob/main/Camilo%27s%20ultimate%20resume%203.0.pdf" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Link" />
   </a>
 </p>
