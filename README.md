@@ -66,5 +66,3 @@ I'm a **Software Engineering student** at **Florida Gulf Coast University**, dri
 </p>
 
 ---
-
-⭐ **“Keep learning, keep building, and stay curious.”**
