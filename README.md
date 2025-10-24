@@ -28,15 +28,6 @@ I'm a **Software Engineering student** at **Florida Gulf Coast University**, dri
 
 ---
 
-### 🧾 Resume
-<p align="center">
-  <a href="https://github.com/camiloprr/camiloprr/blob/main/Camilo%27s%20ultimate%20resume%203.0.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Link" />
-  </a>
-</p>
-
----
-
 ### ⚙️ Technical Tools
 <p align="center">
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
@@ -44,6 +35,15 @@ I'm a **Software Engineering student** at **Florida Gulf Coast University**, dri
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+### 🧾 Resume
+<p align="center">
+  <a href="https://github.com/camiloprr/camiloprr/blob/main/Camilo%27s%20ultimate%20resume%203.0.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Link" />
+  </a>
 </p>
 
 ---
